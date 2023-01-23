@@ -1,7 +1,5 @@
 # 3TM
 
-!(/images/logop.png)
-
 3TM es un E-Commerce sobre Muebles para el hogar y electrodomésticos en donde podremos encontras los productos que siempre soñamos 
 
 Equipo:

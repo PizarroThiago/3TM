@@ -1,0 +1,17 @@
+html{
+  margin: auto;
+  padding: 0;
+  width: 100%;
+}
+
+.contenedor{
+  display: flex;
+  justify-content: flex-start;
+  background-color: grey;
+  width: 80%;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  margin: 3rem;
+}
+

@@ -26,3 +26,5 @@ Equipo:
  Hola mi nombre es Tomas Miranda integrante del equipo 3TM, soy estudiante en la UNTDF (universidad de tierra del fuego en Ushuaia) cursando para ser licenciado en sistemas, tengo un gran interese por la programación porque tiene varios caminos por donde lanzarte y los que mas me interesaron son el desarrollo web y de videojuegos.
  
 Hola me llamo Thiago Pizarro , soy Tecnologo y me facina todo lo relacionado a la informatica y  como esta ayuda en el dia a dia de las personas
+
+Mi nombre es Martina Solis, soy parte del equipo de 3TM, estoy por empezar a cursar la carrera de Licenciatura en Sistemas en la Universidad de Tierra del Fuego. Como parte de 3TM estoy haciendo la parte de experiencia de usuario y diseño, todo lo que se vea lindo es gracias a mi, jajaja(es broma).
